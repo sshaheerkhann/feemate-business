@@ -9,7 +9,7 @@ const AboutPage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center animate-fadeInUp">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 animate-fadeInUp">
-              About SchoolPay
+              About FeeMate
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto animate-fadeInUp animation-delay-200">
               We're dedicated to helping Pakistani private schools manage their finances 
@@ -28,7 +28,7 @@ const AboutPage: React.FC = () => {
                 Our Mission
               </h2>
               <p className="text-lg text-gray-600 mb-6 animate-fadeInLeft animation-delay-200">
-                SchoolPay was born from the understanding that Pakistani private schools, 
+                FeeMate was born from the understanding that Pakistani private schools, 
                 especially smaller institutions, face unique challenges in fee collection 
                 and financial management. Traditional manual processes are time-consuming, 
                 error-prone, and often lead to communication gaps with parents.
@@ -115,7 +115,7 @@ const AboutPage: React.FC = () => {
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto animate-fadeInUp animation-delay-200">
               Our team understands the unique challenges faced by Pakistani educational 
-              institutions and has designed SchoolPay to address these specific needs.
+              institutions and has designed FeeMate to address these specific needs.
             </p>
           </div>
 
@@ -123,7 +123,7 @@ const AboutPage: React.FC = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
               <div className="animate-fadeInLeft">
                 <h3 className="text-2xl font-bold text-gray-900 mb-4 animate-fadeInLeft">
-                  Why We Built SchoolPay
+                  Why We Built FeeMate
                 </h3>
                 <ul className="space-y-3 text-gray-700 animate-fadeInLeft animation-delay-200">
                   <li className="flex items-start">
@@ -163,7 +163,7 @@ const AboutPage: React.FC = () => {
             Ready to Transform Your School's Fee Management?
           </h2>
           <p className="text-xl text-blue-100 mb-8 animate-fadeInUp animation-delay-200">
-            Join the growing community of Pakistani schools using SchoolPay
+            Join the growing community of Pakistani schools using FeeMate
           </p>
           <button className="bg-white text-blue-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 hover:shadow-lg hover:-translate-y-1 transition-all duration-300 animate-fadeInUp animation-delay-400">
             Get Started Today

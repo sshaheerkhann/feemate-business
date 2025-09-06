@@ -191,7 +191,7 @@ const HomePage: React.FC = () => {
             Ready to Streamline Your School's Fee Management?
           </h2>
           <p className="text-xl text-blue-100 mb-8 animate-fadeInUp animation-delay-200">
-            Join hundreds of Pakistani schools already using SchoolPay
+            Join hundreds of Pakistani schools already using FeeMate
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fadeInUp animation-delay-400">
             <button className="bg-white text-blue-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 hover:shadow-lg hover:-translate-y-1 transition-all duration-300">

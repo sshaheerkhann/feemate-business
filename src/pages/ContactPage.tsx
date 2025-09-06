@@ -41,7 +41,7 @@ const ContactPage: React.FC = () => {
               Get in Touch
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto animate-fadeInUp animation-delay-200">
-              Have questions about SchoolPay? We're here to help you streamline 
+              Have questions about FeeMate? We're here to help you streamline 
               your school's fee management process.
             </p>
           </div>
@@ -65,8 +65,8 @@ const ContactPage: React.FC = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Phone</h3>
-                    <p className="text-gray-600">+92 21 1234 5678</p>
-                    <p className="text-gray-600">+92 300 1234 567</p>
+                    <p className="text-gray-600">+92 324 6077 118</p>
+                    <p className="text-gray-600">+92 319 4497 631</p>
                   </div>
                 </div>
 
@@ -76,25 +76,9 @@ const ContactPage: React.FC = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Email</h3>
-                    <p className="text-gray-600">info@schoolpay.pk</p>
-                    <p className="text-gray-600">support@schoolpay.pk</p>
+                    <p className="text-gray-600">feematepk@gmail.com</p>
                   </div>
                 </div>
-
-                <div className="flex items-start space-x-4 hover-lift transition-all duration-300">
-                  <div className="bg-orange-100 p-3 rounded-lg animate-pulse-slow">
-                    <MapPin className="h-6 w-6 text-orange-700" />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-gray-900">Office</h3>
-                    <p className="text-gray-600">
-                      Block 15, Gulshan-e-Iqbal<br />
-                      Karachi, Sindh 75300<br />
-                      Pakistan
-                    </p>
-                  </div>
-                </div>
-
                 <div className="flex items-start space-x-4 hover-lift transition-all duration-300">
                   <div className="bg-purple-100 p-3 rounded-lg animate-pulse-slow">
                     <Clock className="h-6 w-6 text-purple-700" />

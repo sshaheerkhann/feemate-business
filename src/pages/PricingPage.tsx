@@ -200,7 +200,7 @@ const PricingPage: React.FC = () => {
             Ready to Get Started?
           </h2>
           <p className="text-xl text-blue-100 mb-8 animate-fadeInUp animation-delay-200">
-            Start your free trial today and see how SchoolPay can transform your school's fee management
+            Start your free trial today and see how FeeMate can transform your school's fee management
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fadeInUp animation-delay-400">
             <button className="bg-white text-blue-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 hover:shadow-lg hover:-translate-y-1 transition-all duration-300">

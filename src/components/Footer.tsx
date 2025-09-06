@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail } from 'lucide-react';
+import { Mail, GraduationCap } from 'lucide-react';
 import Logo from '../assets/Logo';
 
 const Footer: React.FC = () => {
@@ -10,7 +10,8 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <Logo logoColor='bg-blue-400' />
+              <GraduationCap className="h-6 w-6 text-blue-400" />
+              <span className="text-lg font-semibold">FeeMate</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Simplifying fee management for private schools across Pakistan. 

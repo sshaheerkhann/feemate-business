@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X } from 'lucide-react';
+import { Menu, X, GraduationCap } from 'lucide-react';
 import Logo from '../assets/Logo'; // Adjust the path as necessary
 
 const Navbar: React.FC = () => {
@@ -21,8 +21,8 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center animate-fadeInLeft">
-            <Link to="/" className="flex items-center space-x-2 hover-scale transition-transform duration-300">
-              <Logo className="" />
+            <Link to="/" className="flex items-center space-x-2 text-lg font-semibold hover-scale transition-transform duration-300">
+              <GraduationCap className="h-6 w-6 text-blue-600 mr-2" /> FeeMate
             </Link>
           </div>
 
